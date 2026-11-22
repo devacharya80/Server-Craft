@@ -108,7 +108,6 @@ For a better understanding of the project and its implementation:
 
 ## Development Status
 
-<text-placeholder/>
 
 This project is currently in the planning and initial repository setup stage. Development will proceed incrementally, building and testing individual components before connecting them into the complete platform.
 
